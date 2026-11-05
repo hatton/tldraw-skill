@@ -1,0 +1,4 @@
+node_modules/
+dist/
+# Each running board's port and access token.
+.state/
